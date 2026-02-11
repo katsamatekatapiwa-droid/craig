@@ -74,5 +74,7 @@ QUESTION 6.3
 I would implement a Responsive Grid using CSS flexbox or Grid to make the images stack vertically on mobile phone, and I would add a "Back to Top Button". Add a <form> element in the contact section with required attributes to allow users to send inquiries directly "Form Validation".
 
 STUDENT NAME : TAPIWA KATSAMATEKA 
+
 STUDENT ID : 2503822525
+
 GitHub Repository : https://github.com/katsamatekatapiwa-droid/craig
