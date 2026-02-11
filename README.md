@@ -2,7 +2,7 @@ Interractive Web Development Assignment 1
 
 QUESTION 1
 
-I have created a Motorsport Showcase and Automotive Enthusiast website titled "Craig Motorsport". the website contians technical specifications, performance data and imagery for three high-performance vehicles: the BMW M2cs, the GOLF GTI MK 7R, and the Mercedes Benz C63s. It also includes a contact section for community engagement.
+I created a Motorsport Showcase and Automotive Enthusiast website titled "Craig Motorsport". the website contians technical specifications, performance data and imagery for three high-performance vehicles: the BMW M2cs, the GOLF GTI MK 7R, and the Mercedes Benz C63s. It also includes a contact section for community engagement.
 
 QUESTION 2.1: HTML Elements
 
@@ -10,7 +10,7 @@ QUESTION 2.1: HTML Elements
 
 2.)<img>: Ensuring the file paths were correct for local images ( using the f:/drive) and providing meaningful alt text for accessibility.
 
-3.)<div> Using these to group images without a css stylesheet required careful nesting to keep the layout organized.
+3.)<div>Using these to group images without a css stylesheet required careful nesting to keep the layout organized.
 
 4.)<section>: Applying semantic meaning to different car models while keeping the code readable.
 
@@ -22,7 +22,7 @@ I used <nav> to wrap the primary navigation links, <section> to define distinct 
 
 QUESTION 2.3
 
-The <section> element was the most useful. Bygiving each a uniqueid ( like id="m2"), I was able to create a functional navigation menu that allows users to jump directly to specific content on the same page.
+The<section>element was the most useful. Bygiving each a uniqueid ( like id="m2"), I was able to create a functional navigation menu that allows users to jump directly to specific content on the same page.
 
 QUESTION 3.1
 
