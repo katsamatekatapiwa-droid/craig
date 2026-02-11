@@ -2,21 +2,23 @@ Interractive Web Development Assignment 1
 
 QUESTION 1
 
-I have created a Motorsport Showcase and Automotive Enthusiast website tilted "Craig Motorsport". the website contians technical specifications, performance data and imageryfor three high-performance vehicles: the BMW M2cs, the GOLF GTI MK 7R, and the Mercedes Benz C63s. It also includes a contact section for community engagement.
+I have created a Motorsport Showcase and Automotive Enthusiast website titled "Craig Motorsport". the website contians technical specifications, performance data and imagery for three high-performance vehicles: the BMW M2cs, the GOLF GTI MK 7R, and the Mercedes Benz C63s. It also includes a contact section for community engagement.
 
 QUESTION 2.1: HTML Elements
 
 1.) <nav>: Managing internal page anchors ( using href="#id") required precise coordination between the links and the sections IDs
+
 2.)<img>: Ensuring the file paths were correct for local images ( using the f:/drive) and providing meaningful alt text for accessibility.
+
 3.)<div> Using these to group images without a css stylesheet required careful nesting to keep the layout organized.
-<section>: Applying semantic meaning to different car models while keeping the code readable.
-3.)<a>: Implementing different protocols like tel: and mailto: ( or custom message links ) to ensure they behaved correctly as functional links
+
+4.)<section>: Applying semantic meaning to different car models while keeping the code readable.
+
+5.)<a>: Implementing different protocols like tel: and mailto: ( or custom message links ) to ensure they behaved correctly as functional links
 
   QUESTION 2.2
   
 I used <nav> to wrap the primary navigation links, <section> to define distinct areas for each specific car model, and <footer> at the bottom to house copyright information. This ensures search engines readers understand the  hierarchy of the page.
-
-
 
 QUESTION 2.3
 
@@ -34,8 +36,7 @@ I used the id attribute for unique ono-of-a kind sections (like #m2 or #contact)
 
 QUESSTION 3.3
 
-The alt attribute in the <img> tags. It improves accessibility for visually impaired
-users and ensure that if a local image fails to load, the user still understands what content was supposed to be there( e.g.,"BMW M2 Exterior").
+The alt attribute in the <img> tags. It improves accessibility for visually impaired users and ensure that if a local image fails to load, the user still understands what content was supposed to be there( e.g.,"BMW M2 Exterior").
 
 QUESTION 4.1
 
