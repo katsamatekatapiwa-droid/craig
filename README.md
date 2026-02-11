@@ -22,7 +22,7 @@ I used <nav> to wrap the primary navigation links, <section> to define distinct 
 
 QUESTION 2.3
 
-The<section>element was the most useful. Bygiving each a uniqueid ( like id="m2"), I was able to create a functional navigation menu that allows users to jump directly to specific content on the same page.
+The<section>element was the most useful. By giving each a uniqueid ( like id="m2"), I was able to create a functional navigation menu that allows users to jump directly to specific content on the same page.
 
 QUESTION 3.1
 
@@ -32,7 +32,7 @@ QUESTION 3.1
 
 QUESTION 3.2
 
-I used the id attribute for unique ono-of-a kind sections (like #m2 or #contact) to allow for direct linking. I used the class attribute ( like .car-images) to apply a specific style to mutliple groups of images across the different car sections simultaneously
+I used the id attribute for unique one-of-a kind sections (like #m2 or #contact) to allow for direct linking. I used the class attribute ( like .car-images) to apply a specific style to mutliple groups of images across the different car sections simultaneously
 
 QUESSTION 3.3
 
@@ -40,7 +40,7 @@ The alt attribute in the <img> tags. It improves accessibility for visually impa
 
 QUESTION 4.1
 
-I used a "top-down" appeoach:starting with a header/title, followed by a navigation bar for easy access, then repeating specific "data blocks" for each car and ending with contact info.
+I used a "top-down" approach:starting with a header/title, followed by a navigation bar for easy access, then repeating specific "data blocks" for each car and ending with contact info.
 
 QUESTION 4.2
 
@@ -63,15 +63,15 @@ It acts as a safety net. If I make a mistake that breaks the layout, I can rever
 
 QUESTION 6.1
 
-I manuanlly checked fornclosing tags ( like</div> and </section> and ensured that all attributes were enclosed in quation marks.
+I manuanlly checked for closing tags ( like</div> and </section> and ensured that all attributes were enclosed in quation marks.
 
 QUESTION 6.2
 
-I used indentation to show the nesting of elemnts and included clear id names that matched the content of the sections.
+I used indentation to show the nesting of elements and included clear id names that matched the content of the sections.
 
 QUESTION 6.3
 
-I would implement a Responsive Grid using CSS flexbox or Grid to make the images stack vertically on mobile phone, and I would add a "Black Top Button". Add a <form> element in the contact section with required attributes to allow users to send inquiries directly "Form Validation".
+I would implement a Responsive Grid using CSS flexbox or Grid to make the images stack vertically on mobile phone, and I would add a "Back to Top Button". Add a <form> element in the contact section with required attributes to allow users to send inquiries directly "Form Validation".
 
 STUDENT NAME : TAPIWA KATSAMATEKA 
 STUDENT ID : 2503822525
